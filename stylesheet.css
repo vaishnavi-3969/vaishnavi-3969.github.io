@@ -1,0 +1,57 @@
+.header-logo {  
+    font-family: "Times New Roman";
+    font-weight:bold;
+    border-bottom:7px solid orange; 
+     color: blue;
+     text-align:center;
+}
+    
+.header-logo:hover {
+    background-color: red;
+}
+
+.selected {
+    color:brown;
+}
+
+body{
+    float: center;
+    align: center;
+
+}
+
+.main-list ol {
+    border-image-width: auto;
+    list-style: circle;
+    text-align: center;
+}
+.flex-list li {
+    border-top:5px solid yellow;
+    display: inline-block;
+    font-family:sans-serif;
+    width:30%;
+    height: 50px;
+    border-radius: 7px;
+    padding: 30px;
+    margin: 20px 100px 20px 60px;
+    background-color: green;
+    
+}
+.project{
+    
+    background-size: cover;
+    border-top: 5px solid orange;
+}
+
+
+footer  {
+    cursor: pointer;
+    
+}
+.contact-form {
+    border-top: 9px solid red;
+}
+.footer-list li{
+    image-size: 5px 5px;
+   
+}

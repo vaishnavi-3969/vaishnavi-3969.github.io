@@ -1,0 +1,10 @@
+@media(max width: 1000px){
+    .mainlist ul{
+    box-weight    :20%;
+    }
+}
+@media(max width: 670px){
+    .mainlist ul{
+      box-weight  :100%;
+    }
+}
